@@ -1,0 +1,15 @@
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\Infraestructure.deps.json
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\Infraestructure.dll
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\ref\Infraestructure.dll
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\Infraestructure.pdb
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\Sistematico.Domain.dll
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\bin\Debug\net5.0\Sistematico.Domain.pdb
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.CopyComplete
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.dll
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\ref\Infraestructure.dll
+C:\Users\Quezada\source\repos\Sistematico\Infraestructure\obj\Debug\net5.0\Infraestructure.pdb

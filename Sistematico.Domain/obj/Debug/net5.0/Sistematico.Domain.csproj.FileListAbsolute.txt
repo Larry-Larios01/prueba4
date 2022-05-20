@@ -1,0 +1,15 @@
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\Sistematico.Domain.deps.json
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\Sistematico.Domain.runtimeconfig.json
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\Sistematico.Domain.runtimeconfig.dev.json
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\Sistematico.Domain.dll
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\Sistematico.Domain.pdb
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.dll
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.pdb
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\Sistematico.Domain.genruntimeconfig.cache
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\obj\Debug\net5.0\ref\Sistematico.Domain.dll
+C:\Users\Quezada\source\repos\Sistematico\Sistematico.Domain\bin\Debug\net5.0\ref\Sistematico.Domain.dll
